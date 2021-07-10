@@ -1,2 +1,2 @@
-# cloneListenerMapping
-rest endpoint to clone listener mapping configuration in scriptrunner for jira
+# addProjectInMappingListener
+rest endpoint to add project in config mapping listeners from scriptrunner jira
